@@ -25,3 +25,5 @@ the following:
 
 
 To view the experiment, click on the .html file to open the webpage in your browser.  
+
+You can also view a working copy of the experiment at https://www.asc.ohio-state.edu/mahler.38/QPExp/run-AMT-experiment/experiment.html.
