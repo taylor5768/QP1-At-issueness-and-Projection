@@ -17,4 +17,11 @@ The stimuli used in the experiment are available in a csv file, as well as in a 
 
 *QPStim.pdf: contains the same information as QP1Stim.csv but as a pdf, and also provides a bit more description. 
 
-The "experiment" directory contains the files necessary to setup the experiment webpage.  Download the entire directory and then click on the .html file to open the webpage in your browser.
+The "experiment" directory contains the files necessary to setup the experiment webpage.  Download the entire directory and then open the "exp" directory.  This directory contains 
+the following:
+-css for styling the html (css)
+-javascript (js)
+-experiment.html - the html file for the experiment
+
+
+To view the experiment, click on the .html file to open the webpage in your browser.  
