@@ -16,3 +16,5 @@ The stimuli used in the experiment are available in a csv file, as well as in a 
 - Denial: the 3rd speaker's utterance used in the at-issueness block of the experiment. 
 
 *QPStim.pdf: contains the same information as QP1Stim.csv but as a pdf, and also provides a bit more description. 
+
+The "experiment" directory contains the files necessary to setup the experiment webpage.  Download the entire directory and then click on the .html file to open the webpage in your browser.
